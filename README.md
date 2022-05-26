@@ -7,5 +7,8 @@ esta armado con el pre-bundle Vite-- https://vitejs.dev/ para revisar documentac
 
 
 Preview
-
-[https://github.com/Malfasi/GestorVeterinaria-ReactVite/blob/main/preview.svg](https://raw.githubusercontent.com/Malfasi/GestorVeterinaria-ReactVite/main/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Malfasi/GestorVeterinaria-ReactVite/main/preview.png" width="600" title="hover text">
+  
+</p>
+(https://raw.githubusercontent.com/Malfasi/GestorVeterinaria-ReactVite/main/preview.png)
